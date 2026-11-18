@@ -1,0 +1,8 @@
+Investigate the pass/fail boundary for the input [50].
+
+State:
+1. The expected status from the requirements.
+2. The comparison used in the current code.
+3. The status the current code produces.
+
+Do not modify any files.

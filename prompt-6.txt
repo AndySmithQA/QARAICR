@@ -1,0 +1,10 @@
+Fix only the pass/fail boundary in results.py.
+
+An average of exactly 50 must produce "Pass".
+
+Make the smallest possible change.
+Do not change the average calculation, input validation,
+sorting statement, function name or parameter.
+
+Do not refactor unrelated code.
+Show the proposed change.

@@ -1,0 +1,11 @@
+Review the current results.py and test_results.py.
+
+Confirm:
+1. Whether the pass/fail boundary is now correct.
+2. Whether the new test checks that boundary.
+3. Whether the change stayed within the requested scope.
+4. Which previously identified defects remain.
+
+Do not modify any files.
+Explain whether four passing tests are sufficient to approve
+the implementation against all the requirements.

@@ -1,0 +1,33 @@
+Review results.py and test_results.py against the requirements below.
+
+Do not edit any files or implement fixes yet.
+
+Focus on:
+- Correctness of the average calculation.
+- Correctness of the pass/fail decision.
+- Input validation.
+- Unintended changes to the original list.
+- Missing or incorrect tests.
+
+For each finding, provide:
+1. The relevant code.
+2. The requirement it violates.
+3. A concrete example showing the impact.
+4. A suggested way to verify the finding.
+
+Separate defects from optional improvements and questions.
+Avoid duplicate findings.
+Do not invent additional requirements.
+
+Requirements:
+1. Accept a non-empty list of marks.
+2. Each mark must be an integer between 0 and 100 inclusive.
+   Boolean values such as True and False are invalid.
+3. Invalid input must raise a ValueError.
+4. Calculate the average using all the marks.
+5. An average of 50 or above means "Pass";
+   below 50 means "Fail".
+6. Return the average rounded to two decimal places.
+   Determine pass/fail using the unrounded average.
+7. Do not change the original list.
+8. Keep the existing function name and parameter.

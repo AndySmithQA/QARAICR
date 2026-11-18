@@ -1,0 +1,7 @@
+Investigate the average calculation for [50, 51].
+
+Explain the correct average, what // does here, and the
+average returned by the current code.
+
+Identify the requirement violated.
+Do not modify any files.

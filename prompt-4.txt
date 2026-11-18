@@ -1,0 +1,8 @@
+Investigate marks.sort() using the input [80, 20, 60].
+
+Explain:
+1. Whether sorting is needed to calculate an average.
+2. Whether marks.sort() changes the original list.
+3. Which requirement is violated.
+
+Do not modify any files.

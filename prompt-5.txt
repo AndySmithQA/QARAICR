@@ -1,0 +1,10 @@
+Add one pytest test to test_results.py.
+
+The test must call calculate_result with [50] and assert
+that the status is "Pass".
+
+Keep all existing tests.
+Do not modify results.py.
+Do not add other tests or refactor anything.
+
+Show the proposed change.
